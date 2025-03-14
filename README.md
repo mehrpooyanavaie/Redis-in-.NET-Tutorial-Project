@@ -198,7 +198,11 @@ This project is especially useful for:
 - **Technical Enthusiasts:** Interested in learning about Redis data types and advanced features in .NET.
 
 ---
+## 📜 License
 
+This project is open-source and free to use under the MIT License.
+
+---
 ## Contact
 
 If you have any questions about Redis or its applications in .NET, please feel free to contact me via email at **[mnavaienezhad@gmail.com]**.
