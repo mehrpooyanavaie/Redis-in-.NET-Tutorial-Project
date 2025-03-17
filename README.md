@@ -207,6 +207,3 @@ This project is open-source and free to use under the MIT License.
 
 If you have any questions about Redis or its applications in .NET, please feel free to contact me via email at **[mnavaienezhad@gmail.com]**.
 
----
-
-This README covers all the aspects required for professional documentation and serves as a comprehensive guide for anyone interested in using Redis with .NET.
